@@ -224,13 +224,13 @@ Built **Setup-Wizard** for automated system deployment. The tool sped up environ
 
 Специальность: «Информационные системы и программирование»
 
-Выпуск: **2027**
+Выпуск: **2028**
 
 **RGUTIS College** · 3rd year
 
 Major: Information Systems and Programming
 
-Graduation: **2027**
+Graduation: **2028**
 
 </div>
 
